@@ -1,0 +1,50 @@
+body{
+    color: black;
+    background-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url(scattered-forcefields.png);
+    background-size: 500px;
+}
+
+nav{
+    font-family: 'Pixelify Sans', sans-serif;
+    margin-bottom: 20px;
+    background-color: white;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    list-style-type: none;
+    padding: 16px;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+h1{
+    padding: 30px;
+    text-align: center;
+    background-color: beige;
+    color: black;
+    border: 10px solid green;
+}
+
+main{
+    text-align: center;
+    font-family: 'Young Serif', serif;
+   
+}
+
+h2{
+    background-color: lightblue;
+    margin: 30px;
+}
+
+p{
+    color: black;
+    background-color: white;
+    margin: 30px;
+}
